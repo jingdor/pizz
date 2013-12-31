@@ -1,5 +1,7 @@
 pizz
 ====
 
-blog addr 
-[This link](http://example.net/) has no title attribute.
+pizz  cms 
+Under construction
+[blog](http://jingdor.com/) 
+====
