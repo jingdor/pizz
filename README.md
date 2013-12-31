@@ -1,15 +1,21 @@
 ##########
 pizz CMS
 ##########
-
-
 Open source enterprise content management system based on laravel framework.
-
 ********
 Support
 ********
-* laravel
-* mongo
+
+
+********
+Built-in subsystem
+********
+* Authorization
+* Comment
+* Tag
+* vote
+* rank
+ and so on
 
 
 ********
@@ -30,13 +36,13 @@ More information on `myblog <http://jingdor.com>`_.
 Documentation
 *************
 
-Construction
+* Construction
 
 ************
 Getting Help
 ************
 
-Construction
+* Construction
 
 *******
 License
